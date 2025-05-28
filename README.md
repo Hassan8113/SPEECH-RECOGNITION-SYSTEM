@@ -34,3 +34,5 @@ Run the script:
 
 ###  Output
 The script will transcribe the audio content of sample.wav and display the recognized text in the terminal.
+
+![Image](https://github.com/user-attachments/assets/e99bc689-86d2-48c9-b84a-df5da8d621c0)
